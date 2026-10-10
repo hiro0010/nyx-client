@@ -1,15 +1,16 @@
-# ⚔️ NYX Client
-
 <div align="center">
 
-**Mod de PvP e performance para Minecraft** — Fabric 1.21.1
-
-[![Owner](https://img.shields.io/badge/Owner-hiro0010-FFFFFF?style=flat-square&logo=github&logoColor=white&background=0D1117)](https://github.com/hiro0010)
-[![Netwave](https://img.shields.io/badge/Netwave-Project-FFFFFF?style=flat-square&logo=googlechrome&logoColor=white&background=0D1117)](https://netwave.cloud)
+<img src="assets/header.svg" alt="NYX CLIENT" width="100%" />
 
 </div>
 
----
+<div align="center">
+
+[![Owner](https://img.shields.io/badge/Owner-hiro0010-B00000?style=flat-square&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/hiro0010/nyx-client) [![Netwave](https://img.shields.io/badge/Netwave-Project-B00000?style=flat-square&labelColor=B00000&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/nyx-client) [![Status](https://img.shields.io/badge/Status-EM%20DESENVOLVIMENTO-B00000?style=flat-square&labelColor=0D0D0D&logo=gitlab&logoColor=white)](https://github.com/hiro0010/nyx-client) [![Site](https://img.shields.io/badge/Site-netwave.cloud-B00000?style=flat-square&labelColor=0D0D0D&logo=googlechrome&logoColor=white)](https://github.com/hiro0010/nyx-client)
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## O que é
 
@@ -109,10 +110,12 @@ thread daemon, a cada 6000 ticks e no shutdown.
 Funcional em desenvolvimento. Compila com Loom e roda. O jar final de
 distribuição ainda não é gerado — o build atual para em `dev`.
 
----
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
-<sub>Parte da [Netwave](https://github.com/hiro0010/netwave) · Owner: [Hiro](https://github.com/hiro0010)</sub>
+<sub>Parte da <a href="https://github.com/hiro0010/netwave">Netwave</a>
+&middot; Owner: <a href="https://github.com/hiro0010">Hiro</a></sub>
 
 </div>
